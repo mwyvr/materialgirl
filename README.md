@@ -1,2 +1,2 @@
-# materialgirl
-materialgirl is a set of Material Design inspired themes for the Helix editor and supported terminals
+# surf
+surf is a set of themes for the Helix editor and supported terminals
