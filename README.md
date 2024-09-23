@@ -1,6 +1,6 @@
-# cli-themes
+# mui-themes
 
-cli-themes is a set of themes for terminals and terminal-based tools. 
+mui-themes is a set of Material Design-inspried themes for terminals, shells, and command line applications such as the Helix editor.
 
 ## Available themes
 
@@ -12,3 +12,7 @@ cli-themes is a set of themes for terminals and terminal-based tools.
 ### Foot terminal
 
 - mui-dark.ini
+
+### Fish Shell
+
+- mui-dark.fish
